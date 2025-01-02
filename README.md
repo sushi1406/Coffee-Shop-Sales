@@ -14,7 +14,7 @@ The project aims to provide actionable insights into the coffee shop's sales by 
 ---
 
 ## Files in this Repository  
-- **`Raw Data.xlsx`**: Contains the original data provided by the coffee shop.  
+- **`Coffee Shop Sales.xlsx`**: Contains the original data provided by the coffee shop.  
 - **`Coffee_Shop_Sales_Analysis.xlsx`**: Final Excel file with cleaned data, analysis, and the dashboard.  
 - **`Dashboard_Screenshot.png`**: Image of the dashboard for a quick overview.
 
